@@ -3,7 +3,6 @@ gemfile:
     -Gemfile
 rvm:
     - 1.9.3
-    - 2.0.0
 script: 
     - bundle install 
     - bundle exec rake knife
